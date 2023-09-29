@@ -16,7 +16,7 @@
 
 
 ## Description
-There was supposed to be a book search engine.
+This is supposed to be a book search engine.
 
 ## Installation
 
@@ -38,7 +38,7 @@ GitHub: https://github.com/itsadrih
 Email: aherreraa08@gmail.com
 
 ## Links 
-REPO - https://github.com/itsadrih/SOCIAL-NETWORK-API
+REPO - https://github.com/itsadrih/BOOK-SEARCH-ENGINE
 
 ## Notes
 THIS PROJECT IS UNFORTUNATELY UNFINISHED/ INCOMPLETE. PLANS OF COMPLETING SOON. -in progress-
